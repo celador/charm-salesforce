@@ -2,4 +2,3 @@ node_modules/
 .forceCode/
 .sfdx
 force.json
-sfdx-project.json
