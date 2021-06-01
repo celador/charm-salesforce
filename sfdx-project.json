@@ -1,9 +1,12 @@
 {
-    "namespace": "",
+    "namespace": "charm",
     "packageDirectories": [
         {
             "path": "src",
-            "default": true
+            "default": true,
+            "package": "Charm",
+            "versionName": "One",
+            "versionNumber": "1.0.0.0"
         }
     ],
     "sfdcLoginUrl": "https://login.salesforce.com",
