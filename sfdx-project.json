@@ -1,14 +1,17 @@
 {
-    "namespace": "charm",
     "packageDirectories": [
         {
             "path": "src",
             "default": true,
-            "package": "Charm",
-            "versionName": "One",
-            "versionNumber": "1.0.0.0"
+            "package": "Charm-Sync",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
         }
     ],
+    "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "51.0"
+    "sourceApiVersion": "51.0",
+    "packageAliases": {
+        "Charm-Sync": "0Ho3t00000000HoCAI"
+    }
 }

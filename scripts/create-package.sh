@@ -43,4 +43,4 @@ echo $GIT_HASH
   # --loglevel=(trace|debug|info|warn|error|fatal|TRACE|DEBUG|INFO|WARN|ERROR|FATAL)
   # -w, --wait=wait 
 
-sfdx force:package:version:create -a "One" -b ${GIT_BRANCH} -e "Charm Version 1" -d "src" -t ${GIT_HASH} -n ${1} -v charm-dev --loglevel debug -w 10 --preserve
+sfdx force:package:version:create -a "ver 0.1" -b ${GIT_BRANCH} -e "Charm Version 1" -d "src" -t ${GIT_HASH} -n ${1} -v charm-dev --loglevel debug -w 10 --preserve -x

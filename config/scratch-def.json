@@ -1,0 +1,19 @@
+{
+    "orgName": "Charm",
+    "edition": "Developer",
+    "features": [],
+    "settings": {
+        "communitiesSettings": {
+            "enableNetworksEnabled": false
+        },
+        "mobileSettings": {
+            "enableS1EncryptedStoragePref2": false
+        },
+        "omniChannelSettings": {
+            "enableOmniChannel": false
+        },
+        "caseSettings": {
+            "systemUserEmail": "john+admin@johnaaronnelson.com"
+        }
+    }
+  }
