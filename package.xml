@@ -179,5 +179,9 @@
     <members>Charm_Sync</members>
     <name>Flow</name>
   </types>
+   <types>
+    <members>Charm_Admin</members>
+    <name>PermissionSet</name>
+  </types>
   <version>51.0</version>
 </Package>

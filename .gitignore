@@ -2,3 +2,4 @@ node_modules/
 .forceCode/
 .sfdx
 force.json
+.DS_Store
