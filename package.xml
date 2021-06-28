@@ -180,6 +180,10 @@
     <members>Charm_Sync_Lead</members>
     <name>Flow</name>
   </types>
+  <types>
+    <members>Charm</members>
+    <name>ConnectedApp</name>
+  </types>
    <types>
     <members>Charm_Admin</members>
     <name>PermissionSet</name>
