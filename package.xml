@@ -177,6 +177,7 @@
   </types>
   <types>
     <members>Charm_Sync</members>
+    <members>Charm_Sync_Lead</members>
     <name>Flow</name>
   </types>
    <types>
